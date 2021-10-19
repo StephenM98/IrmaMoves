@@ -1,0 +1,23 @@
+========
+FF      
+ F      
+ FF     
+  F     
+  K     
+C  B    
+ CC D   
+  C  DDI
+========
+
+========
+FF      
+ F      
+ FF     
+  F     
+  K     
+C  BI   
+ CC D   
+  C  DD 
+========
+
+Hooray!

@@ -1,0 +1,12 @@
+========
+FF      
+ F      
+ FF     
+  F     
+  K     
+C  B    
+ CC D   
+  C  DD 
+========
+
+Hooray!

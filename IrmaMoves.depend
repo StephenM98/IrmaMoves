@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1537543703 source:c:\users\margaret\documents\irmamoves\irmamoves.h
+
+1537538579 source:c:\users\margaret\downloads\irmamoves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Margaret\Documents\IrmaMoves\IrmaMoves.h"
+
+1537543589 c:\users\margaret\documents\irmamoves\irmamoves.h
+
+1537538919 source:c:\users\margaret\documents\irmamoves\testcases\testcase03.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1537548550 source:c:\users\margaret\documents\irmamoves\irmamoves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IrmaMoves.h"
+
+1516822454 c:\users\margaret\documents\irmamoves\\irmamoves.h
+
+1537544190 source:c:\users\margaret\documents\irmamoves\irmamoves1.h
+
+1537544190 c:\users\margaret\documents\irmamoves\irmamoves1.h
+
+1537544874 source:c:\users\margaret\documents\irmamoves\testcases\testcase01.c
+	<stdio.h>
+	<stdlib.h>
+
+1537544848 source:c:\users\margaret\documents\irmamoves\testcase03.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1505340206 source:c:\users\margaret\documents\irmamoves\testcase05.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1505339646 source:c:\users\margaret\documents\irmamoves\testcase04.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
